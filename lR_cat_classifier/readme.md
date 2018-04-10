@@ -1,1 +1,1 @@
-[Tutorial](https://github.com/bossonfields/Deep_Learning/Neural Networks and Deep Learning/Week 2/Logistic Regression as a Neural Network/Logistic+Regression+with+a+Neural+Network+mindset+v3.ipynb)
+[Tutorial](https://github.com/bossonfields/Deep_Learning/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv3.ipynb)
